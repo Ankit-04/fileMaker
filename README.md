@@ -8,4 +8,4 @@ Having countless friends in grade 10 computer science they all need to write hea
   - adding classes to make my code more clean
   
 ### what I want to do
-  - add a database so all of my friends can use it with there prefrences
+  - add a database so all of my friends can use it with their prefrences
