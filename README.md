@@ -4,7 +4,7 @@ Having countless friends in grade 10 computer science they all need to write hea
 ## todo
 
 ### what I'm working on
-  - replacing how i globally imported tkinter
+  - replacing how I globally imported tkinter
   - adding classes to make my code more clean
   
 ### what I want to do
