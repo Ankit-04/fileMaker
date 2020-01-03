@@ -7,7 +7,7 @@ import shutil
 
 root= Tk()
 root.resizable(False , False)
-root.geometry("450x250+500+150")
+root.geometry("451x250+500+150")
 
 Label(root, text= "Welcome to File Maker", font = "Helvetica 24").place(x = 50, y = 0)
 Label(root, text="File name").place(x = 0, y = 44)
